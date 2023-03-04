@@ -21,3 +21,5 @@
 15- D
 
 16- D
+
+17- Como tú dijiste, ninguna es correcta. La respuesta correcta sería: 64 subredes con 2 hosts.
