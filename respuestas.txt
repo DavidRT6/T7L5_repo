@@ -25,3 +25,5 @@
 17- Como tú dijiste, ninguna es correcta. La respuesta correcta sería: 64 subredes con 2 hosts.
 
 18- Como tú dijiste, ninguna es correcta. La respuesta correcta sería: 128 subredes con 510 hosts.
+
+20- D
